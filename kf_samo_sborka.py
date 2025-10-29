@@ -9,6 +9,7 @@ import subprocess  # вызов робокопи
 import json
 
 
+#
 #### Автоустановка пакетов
 required_modules = ["pyperclip", "json", "cryptography", "ftplib", "tqdm", "colorama"]
 
